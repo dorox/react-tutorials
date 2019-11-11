@@ -2,31 +2,7 @@
 REaCT-hub
 ===============================
 ---------------------------
-This is an interactive programming environment for data analysis, simulation, physical and chemical properties access.
-
-#### When to use it:
-1. You are working with large datasets.
-2. There is a large number of repetetive operations for every bit of data analysis.
-3. You want to produce well-formatted illustrations, but don't want to use Origin.
-4. You would like to test hypothesis or learn how the process operates using modelling.
-5. You are looking to derive numerical parameters from experimental data and Excel's linear fit is not enough.
-6. You need to run linux-only reasearch software.
-7. You want to learn GIT, Linux command line, Python.
-
-#### When not to use it:
-1. You are not ready to invest time to learn programming in Python.
-2. You don't have a concrete work plan.
-3. The datasets are small enough to be analysed in Excel.
-4. There is a Windows software that does all your tasks.
-
-List of examples
-------------------------
-------------------------
-
-#### Introduction into interactive computing:
-1. Jupyter environment [Jupyter.ipynb](./Jupyter.ipynb)
-2. Python
-3. Typical data analysis tasks
+This is a collection of tutorials for a private (yet) chemical and chemical engineering simulation module.
 
 #### Chemical mechanisms:
 1. Examples of simple chemical reactions: [Chemistry_basics.ipynb](./Chemistry_basics.ipynb)
