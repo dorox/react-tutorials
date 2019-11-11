@@ -1,1 +1,4 @@
-.
+.gitignore
+.ipynb_extensions
+.ipynb_checkpoints
+.ipynb
